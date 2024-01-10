@@ -1,7 +1,7 @@
 # project1-nexus
 Login and Signup Page-Frontend
 To create a simple login and signup form with validation using HTML, CSS & JavaScript.
-1.FORM STRUCTURE
+#FORM STRUCTURE
       To create the form, we need to use the <form> tag. Login form is made up of three <input> elements, text field for the username, password field for the password and submit field for the login button. Other than these three elements, Signup form includes email field for the user email address. <input> tag does not have a closing tag.
                     <input type="text" name="name" id="logName" placeholder="Username">
 2.STYLING
